@@ -1,0 +1,15 @@
+body mark{
+    background-color: rgb(255,255,255);
+}
+.body2 {
+    background-color: black;
+    color: aqua;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 989px;
+    height: 795px;
+}
+body {
+    background-image: url("Assets/Background.jpg");
+}
